@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+
+# Image cache: fetched on demand from assets.omscs.io by the build scripts,
+# embedded into the .apkg, so not committed.
+cs6200/src/media/
+
+# Scratch
+*.tmp
+*.tmp.md
+.DS_Store
